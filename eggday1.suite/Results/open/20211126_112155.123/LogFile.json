@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running open.script",
+				"identifier": "START",
+				"timestamp": "2021-11-26 11:21:55.128 +0530"
+			},
+		{
+				"handlerName": "on_open",
+				"timestamp": "2021-11-26 11:21:55.357 +0530",
+				"scriptName": "open.script",
+				"message": "at (36, 244)",
+				"image": "Microsoft",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"message": "(Duration:\"0.287\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-11-26 11:21:55 +0530\", Successes:\"1\", TestCase:\"open.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-11-26 11:21:55.418 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 open.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-11-26 11:21:55.450 +0530"
+			}
+	],
+	"createdTimestamp": "2021-11-26 11:21:55.131 +0530"
+}

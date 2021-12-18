@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="Egd1">
+ <run>
+  <RunDate>2021-11-23 14:10:09.498 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.446000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211123_141009.498/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 14:11:23.663 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.343000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211123_141123.663/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 17:53:33.322 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.320000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211123_175333.322/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 18:00:59.415 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>29.877000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211123_180059.415/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 18:08:10.127 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>23.492000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211123_180810.127/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- doubleclick Error - No Image Found On Screen: &quot;chrom1&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 18:11:03.742 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>121.500000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211123_181103.742/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 18:30:33.313 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>36.740000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211123_183033.313/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;chrome_url&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 20:19:22.937 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.116000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211123_201922.937/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- doubleclick Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 20:37:44.068 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>42.825000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211123_203744.068/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 20:38:44.819 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.096000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211123_203844.819/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: chome_url</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 20:39:15.740 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.798000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211123_203915.740/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: chome_url</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 20:47:23.278 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.012000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211123_204723.278/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in egd1:
+Syntax Error at line 7: Syntax Error - can&#x27;t understand &quot;image0001&quot; at character 19</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 20:47:39.618 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.015000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211123_204739.618/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in egd1:
+Syntax Error at line 7: Syntax Error - can&#x27;t understand &quot;image0001&quot; at character 19</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 20:48:06.743 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>76.808000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211123_204806.743/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 20:49:35.989 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>47.934000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211123_204935.989/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 20:53:55.717 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>20.786000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211123_205355.717/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 20:55:31.389 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>47.924000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211123_205531.389/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 20:56:29.360 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>59.108000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211123_205629.360/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 20:57:55.365 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>34.576000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211123_205755.365/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 21:06:06.966 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>33.336000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211123_210606.966/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;chrome_url&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 21:07:23.444 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>822.467000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211123_210723.444/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 21:26:28.075 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>31.611000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211123_212628.075/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;image00012&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 21:30:58.708 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>31.743000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211123_213058.708/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;image0001&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 21:32:48.718 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>26.977000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211123_213248.718/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 21:33:29.665 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>36.030000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211123_213329.665/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;image0002&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 21:35:17.187 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>30.530000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211123_213517.187/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 21:36:14.292 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>18.046000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211123_213614.292/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 21:49:39.572 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>30.594000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211123_214939.572/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;image0001&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 21:51:51.905 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>40.075000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211123_215151.905/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 22:02:28.625 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>48.999000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211123_220228.625/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 22:08:27.042 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>69.249000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211123_220827.042/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 22:11:48.579 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>30.787000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211123_221148.579/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;image0002&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 22:17:02.297 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>30.529000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211123_221702.297/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;image0002&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 22:19:26.615 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>52.591000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211123_221926.615/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 22:24:59.091 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>1202.767000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211123_222459.091/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 22:45:59.891 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>134.408000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211123_224559.891/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-11-23 22:50:07.115 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>35.509000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211123_225007.115/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

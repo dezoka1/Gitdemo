@@ -1,0 +1,4 @@
+﻿2021-11-23 14:10:09.506 +0530	START		Running Egd1.script
+2021-11-23 14:10:09.855 +0530	doubleclick	chrom1	at (36, 256)	1	on_egd1	Egd1.script
+2021-11-23 14:10:09.944 +0530	EndTestCase		(Duration:"0.433", Errors:"0", Exceptions:"0", StartTime:"2021-11-23 14:10:09 +0530", Successes:"1", TestCase:"Egd1.script", Warnings:"0")
+2021-11-23 14:10:09.975 +0530	SUCCESS		Execution Time 0:00:00 Egd1.script

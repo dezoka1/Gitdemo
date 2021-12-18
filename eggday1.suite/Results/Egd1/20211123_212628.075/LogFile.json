@@ -1,0 +1,73 @@
+{
+	"entries": [
+		{
+				"message": "Running Egd1.script",
+				"identifier": "START",
+				"timestamp": "2021-11-23 21:26:28.080 +0530"
+			},
+		{
+				"handlerName": "on_egd1",
+				"timestamp": "2021-11-23 21:26:28.503 +0530",
+				"scriptName": "Egd1.script",
+				"message": "at (214, 74)",
+				"image": "image0004",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_egd1",
+				"timestamp": "2021-11-23 21:26:29.349 +0530",
+				"scriptName": "Egd1.script",
+				"message": "at (214, 74)",
+				"image": "image00012",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_egd1",
+				"timestamp": "2021-11-23 21:26:29.374 +0530",
+				"scriptName": "Egd1.script",
+				"message": "found at (102, 71)",
+				"image": "Icon_refresh",
+				"handlerLine": 4,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_egd1",
+				"timestamp": "2021-11-23 21:26:30.609 +0530",
+				"message": "www.amazon.in[returnKey]",
+				"scriptName": "Egd1.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_egd1",
+				"timestamp": "2021-11-23 21:26:35.689 +0530",
+				"message": "[windowsAltKey][F4]",
+				"scriptName": "Egd1.script",
+				"handlerLine": 8,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_egd1",
+				"timestamp": "2021-11-23 21:26:59.577 +0530",
+				"scriptName": "Egd1.script",
+				"message": "No Image Found On Screen: \"image00012\"",
+				"image": "image00012",
+				"handlerLine": 10,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"31.596\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2021-11-23 21:26:28 +0530\", Successes:\"0\", TestCase:\"Egd1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-11-23 21:26:59.686 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: click Error - No Image Found On Screen: \"image00012\" -- Execution Time 0:00:31 Egd1.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-11-23 21:26:59.975 +0530"
+			}
+	],
+	"createdTimestamp": "2021-11-23 21:26:28.090 +0530"
+}

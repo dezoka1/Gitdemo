@@ -1,0 +1,64 @@
+{
+	"entries": [
+		{
+				"message": "Running Egd1.script",
+				"identifier": "START",
+				"timestamp": "2021-11-23 18:30:33.317 +0530"
+			},
+		{
+				"handlerName": "on_egd1",
+				"timestamp": "2021-11-23 18:30:33.588 +0530",
+				"scriptName": "Egd1.script",
+				"message": "at (37, 240)",
+				"image": "chrom1",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_egd1",
+				"timestamp": "2021-11-23 18:30:40.657 +0530",
+				"scriptName": "Egd1.script",
+				"message": "found at (102, 71)",
+				"image": "Icon_refresh",
+				"handlerLine": 3,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_egd1",
+				"timestamp": "2021-11-23 18:30:41.413 +0530",
+				"message": "www.amazon.in[returnKey]",
+				"scriptName": "Egd1.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_egd1",
+				"timestamp": "2021-11-23 18:30:46.490 +0530",
+				"message": "[windowsAltKey][F4]",
+				"scriptName": "Egd1.script",
+				"handlerLine": 7,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_egd1",
+				"timestamp": "2021-11-23 18:31:09.962 +0530",
+				"scriptName": "Egd1.script",
+				"message": "No Image Found On Screen: \"chrome_url\"",
+				"image": "chrome_url",
+				"handlerLine": 9,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"36.733\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2021-11-23 18:30:33 +0530\", Successes:\"0\", TestCase:\"Egd1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-11-23 18:31:10.053 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: click Error - No Image Found On Screen: \"chrome_url\" -- Execution Time 0:00:36 Egd1.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-11-23 18:31:10.270 +0530"
+			}
+	],
+	"createdTimestamp": "2021-11-23 18:30:33.319 +0530"
+}

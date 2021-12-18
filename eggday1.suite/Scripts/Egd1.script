@@ -1,0 +1,21 @@
+﻿DoubleClick "chrom1", "Microsoft"
+
+
+WaitFor 100, "Icon_refresh"
+
+TypeText "www.amazon.in",returnKey
+
+wait 5
+
+
+
+TypeText altKey&f4
+
+
+
+
+
+
+
+
+

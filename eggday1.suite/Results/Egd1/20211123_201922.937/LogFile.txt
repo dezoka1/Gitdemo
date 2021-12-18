@@ -1,0 +1,4 @@
+﻿2021-11-23 20:19:22.937 +0530	START		Running Egd1.script
+2021-11-23 20:19:22.986 +0530	Exception		Remote Connection Unavailable	1	on_egd1	Egd1.script
+2021-11-23 20:19:23.053 +0530	EndTestCase		(Duration:"0.116", Errors:"1", Exceptions:"1", StartTime:"2021-11-23 20:19:22 +0530", Successes:"0", TestCase:"Egd1.script", Warnings:"0")
+2021-11-23 20:19:23.068 +0530	FAILURE		No Remote Connection: doubleclick Error - Remote Connection Unavailable -- Execution Time 0:00:00 Egd1.script

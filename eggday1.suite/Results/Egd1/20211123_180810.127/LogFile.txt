@@ -1,0 +1,4 @@
+﻿2021-11-23 18:08:10.131 +0530	START		Running Egd1.script
+2021-11-23 18:08:33.529 +0530	Exception	chrom1	No Image Found On Screen: "chrom1"	1	on_egd1	Egd1.script
+2021-11-23 18:08:33.620 +0530	EndTestCase		(Duration:"23.486", Errors:"1", Exceptions:"1", StartTime:"2021-11-23 18:08:10 +0530", Successes:"0", TestCase:"Egd1.script", Warnings:"0")
+2021-11-23 18:08:33.816 +0530	FAILURE	Screen_Error.png	Image Not Found: doubleclick Error - No Image Found On Screen: "chrom1" -- Execution Time 0:00:23 Egd1.script

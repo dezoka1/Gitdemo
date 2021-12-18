@@ -1,0 +1,75 @@
+{
+	"originalcapturelocation": [
+		78,
+		55,
+		49,
+		32
+	],
+	"lastmodifieddate": 1637671379.5609999,
+	"createddate": 1637670374.901,
+	"name": "Icon_refresh",
+	"lastfounddate": 1637688022.5180001,
+	"ocrcapturestring": "c",
+	"lastfoundlocation": [
+		80,
+		57,
+		45,
+		28
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[24,16]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Icon_refresh.png",
+				"connectionname": "M18ve_nov-20",
+				"type": 1,
+				"connectionserverid": "10.171.121.171",
+				"capturerect": [
+					78,
+					55,
+					49,
+					32
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "c"
+			},
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[2,2,47,30]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[22,14]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Icon_refresh.png",
+				"connectionname": "M18ve_nov-20",
+				"type": 1,
+				"connectionserverid": "10.171.121.171",
+				"capturerect": [
+					78,
+					55,
+					45,
+					28
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "c"
+			}
+	]
+}

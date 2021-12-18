@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running open.script",
+				"identifier": "START",
+				"timestamp": "2021-11-26 11:26:10.447 +0530"
+			},
+		{
+				"message": "(Duration:\"6.962\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-11-26 11:26:10 +0530\", Successes:\"0\", TestCase:\"open.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-11-26 11:26:17.414 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:06 open.script",
+				"identifier": "ABORTED",
+				"timestamp": "2021-11-26 11:26:17.421 +0530"
+			}
+	],
+	"createdTimestamp": "2021-11-26 11:26:10.451 +0530"
+}

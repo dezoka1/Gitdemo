@@ -1,0 +1,38 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2021-11-23 14:10:09.498 +0530,"Success",0:00:00,0,0,0,"20211123_141009.498/LogFile.txt","","",1
+2021-11-23 14:11:23.663 +0530,"Success",0:00:00,0,0,0,"20211123_141123.663/LogFile.txt","","",1
+2021-11-23 17:53:33.322 +0530,"Success",0:00:00,0,0,0,"20211123_175333.322/LogFile.txt","","",1
+2021-11-23 18:00:59.415 +0530,"Aborted",0:00:29,1,0,0,"20211123_180059.415/LogFile.txt","","",0
+2021-11-23 18:08:10.127 +0530,"Failure",0:00:23,1,0,1,"20211123_180810.127/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""chrom1""",0
+2021-11-23 18:11:03.742 +0530,"Success",0:02:01,0,0,0,"20211123_181103.742/LogFile.txt","","",1
+2021-11-23 18:30:33.313 +0530,"Failure",0:00:36,1,0,1,"20211123_183033.313/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""chrome_url""",0
+2021-11-23 20:19:22.937 +0530,"Failure",0:00:00,1,0,1,"20211123_201922.937/LogFile.txt","","No Remote Connection -- doubleclick Error - Remote Connection Unavailable",0
+2021-11-23 20:37:44.068 +0530,"Aborted",0:00:42,1,0,0,"20211123_203744.068/LogFile.txt","","",0
+2021-11-23 20:38:44.819 +0530,"Failure",0:00:09,1,0,1,"20211123_203844.819/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: chome_url",0
+2021-11-23 20:39:15.740 +0530,"Failure",0:00:09,1,0,1,"20211123_203915.740/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: chome_url",0
+2021-11-23 20:47:23.278 +0530,"Failure",0:00:00,1,0,0,"20211123_204723.278/LogFile.txt","","SenseTalk Compiler Exception -- in egd1:\nSyntax Error at line 7: Syntax Error - can't understand ""image0001"" at character 19",0
+2021-11-23 20:47:39.618 +0530,"Failure",0:00:00,1,0,0,"20211123_204739.618/LogFile.txt","","SenseTalk Compiler Exception -- in egd1:\nSyntax Error at line 7: Syntax Error - can't understand ""image0001"" at character 19",0
+2021-11-23 20:48:06.743 +0530,"Success",0:01:16,0,0,0,"20211123_204806.743/LogFile.txt","","",1
+2021-11-23 20:49:35.989 +0530,"Success",0:00:47,0,0,0,"20211123_204935.989/LogFile.txt","","",1
+2021-11-23 20:53:55.717 +0530,"Success",0:00:20,0,0,0,"20211123_205355.717/LogFile.txt","","",1
+2021-11-23 20:55:31.389 +0530,"Aborted",0:00:47,1,0,0,"20211123_205531.389/LogFile.txt","","",0
+2021-11-23 20:56:29.360 +0530,"Aborted",0:00:59,1,0,0,"20211123_205629.360/LogFile.txt","","",0
+2021-11-23 20:57:55.365 +0530,"Success",0:00:34,0,0,0,"20211123_205755.365/LogFile.txt","","",1
+2021-11-23 21:06:06.966 +0530,"Failure",0:00:33,1,0,1,"20211123_210606.966/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""chrome_url""",0
+2021-11-23 21:07:23.444 +0530,"Aborted",0:13:42,1,0,1,"20211123_210723.444/LogFile.txt","","",0
+2021-11-23 21:26:28.075 +0530,"Failure",0:00:31,1,0,1,"20211123_212628.075/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""image00012""",0
+2021-11-23 21:30:58.708 +0530,"Failure",0:00:31,1,0,1,"20211123_213058.708/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""image0001""",0
+2021-11-23 21:32:48.718 +0530,"Aborted",0:00:26,1,0,1,"20211123_213248.718/LogFile.txt","","",0
+2021-11-23 21:33:29.665 +0530,"Failure",0:00:36,1,0,1,"20211123_213329.665/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""image0002""",0
+2021-11-23 21:35:17.187 +0530,"Aborted",0:00:30,1,0,1,"20211123_213517.187/LogFile.txt","","",0
+2021-11-23 21:36:14.292 +0530,"Success",0:00:18,0,0,0,"20211123_213614.292/LogFile.txt","","",1
+2021-11-23 21:49:39.572 +0530,"Failure",0:00:30,1,0,1,"20211123_214939.572/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""image0001""",0
+2021-11-23 21:51:51.905 +0530,"Success",0:00:40,0,0,0,"20211123_215151.905/LogFile.txt","","",1
+2021-11-23 22:02:28.625 +0530,"Aborted",0:00:48,1,0,0,"20211123_220228.625/LogFile.txt","","",0
+2021-11-23 22:08:27.042 +0530,"Aborted",0:01:09,1,0,0,"20211123_220827.042/LogFile.txt","","",0
+2021-11-23 22:11:48.579 +0530,"Failure",0:00:30,1,0,1,"20211123_221148.579/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""image0002""",0
+2021-11-23 22:17:02.297 +0530,"Failure",0:00:30,1,0,1,"20211123_221702.297/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""image0002""",0
+2021-11-23 22:19:26.615 +0530,"Success",0:00:52,0,0,0,"20211123_221926.615/LogFile.txt","","",1
+2021-11-23 22:24:59.091 +0530,"Aborted",0:20:02,1,0,0,"20211123_222459.091/LogFile.txt","","",0
+2021-11-23 22:45:59.891 +0530,"Aborted",0:02:14,1,0,0,"20211123_224559.891/LogFile.txt","","",0
+2021-11-23 22:50:07.115 +0530,"Success",0:00:35,0,0,0,"20211123_225007.115/LogFile.txt","","",1

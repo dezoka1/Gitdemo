@@ -1,0 +1,5 @@
+﻿2021-11-23 21:35:17.194 +0530	START		Running Egd1.script
+2021-11-23 21:35:17.466 +0530	doubleclick	chrom1	at (37, 240)	1	on_egd1	Egd1.script
+2021-11-23 21:35:47.555 +0530	Exception	image00012	No Image Found On Screen: "image00012"	2	on_egd1	Egd1.script
+2021-11-23 21:35:47.717 +0530	EndTestCase		(Duration:"30.519", Errors:"1", Exceptions:"1", StartTime:"2021-11-23 21:35:17 +0530", Successes:"0", TestCase:"Egd1.script", Warnings:"0")
+2021-11-23 21:35:47.754 +0530	ABORTED		Execution Time 0:00:30 Egd1.script

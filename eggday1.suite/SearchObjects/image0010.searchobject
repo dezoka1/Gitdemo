@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		33,
+		25,
+		24,
+		22
+	],
+	"lastmodifieddate": 1637686315.3530002,
+	"createddate": 1637686315.3530002,
+	"name": "image0010",
+	"lastfounddate": 1637906160.609,
+	"ocrcapturestring": "©",
+	"lastfoundlocation": [
+		33,
+		25,
+		24,
+		22
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[138,48]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "image0004.png",
+				"connectionname": "M18ve_nov-20",
+				"type": 1,
+				"connectionserverid": "10.171.121.171",
+				"capturerect": [
+					33,
+					25,
+					24,
+					22
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "©"
+			}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running Egd1.script",
+				"identifier": "START",
+				"timestamp": "2021-11-23 22:45:59.898 +0530"
+			},
+		{
+				"handlerName": "on_egd1",
+				"timestamp": "2021-11-23 22:46:00.155 +0530",
+				"scriptName": "Egd1.script",
+				"message": "at (37, 240)",
+				"image": "chrom1",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"message": "(Duration:\"134.4\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-11-23 22:45:59 +0530\", Successes:\"0\", TestCase:\"Egd1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-11-23 22:48:14.300 +0530"
+			},
+		{
+				"message": "Execution Time 0:02:14 Egd1.script",
+				"identifier": "ABORTED",
+				"timestamp": "2021-11-23 22:48:14.307 +0530"
+			}
+	],
+	"createdTimestamp": "2021-11-23 22:45:59.900 +0530"
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Egd1_script" package="eggday1.suite" timestamp="2021-11-23 21:32:48.718 +0530"
+ tests="1"  failures="0" errors="0" time="26.977000">
+  <properties>
+   <property name="RunDate" value="2021-11-23 21:32:48.718 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="Egd1.script" assertions="1" status="error"  time="26.968">
+    <error type="Exception" message="No Image Found On Screen: &quot;image0002&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

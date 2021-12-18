@@ -1,0 +1,52 @@
+{
+	"entries": [
+		{
+				"message": "Running egg2.script",
+				"identifier": "START",
+				"timestamp": "2021-11-24 09:50:21.301 +0530"
+			},
+		{
+				"handlerName": "on_egg2",
+				"timestamp": "2021-11-24 09:50:21.424 +0530",
+				"message": "hello",
+				"scriptName": "egg2.script",
+				"handlerLine": 1,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_egg2",
+				"timestamp": "2021-11-24 09:50:21.650 +0530",
+				"message": "welcome",
+				"scriptName": "egg2.script",
+				"handlerLine": 2,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_egg2",
+				"timestamp": "2021-11-24 09:50:21.656 +0530",
+				"message": "hey",
+				"scriptName": "egg2.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_egg2",
+				"timestamp": "2021-11-24 09:50:21.664 +0530",
+				"message": "how",
+				"scriptName": "egg2.script",
+				"handlerLine": 4,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.436\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-11-24 09:50:21 +0530\", Successes:\"1\", TestCase:\"egg2.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-11-24 09:50:21.752 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 egg2.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-11-24 09:50:21.812 +0530"
+			}
+	],
+	"createdTimestamp": "2021-11-24 09:50:21.306 +0530"
+}

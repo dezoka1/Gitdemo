@@ -1,0 +1,4 @@
+﻿2021-11-26 11:28:03.886 +0530	START		Running open.script
+2021-11-26 11:28:04.197 +0530	doubleclick	Microsoft	at (36, 244)	1	on_open	open.script
+2021-11-26 11:28:41.312 +0530	EndTestCase		(Duration:"37.421", Errors:"1", Exceptions:"0", StartTime:"2021-11-26 11:28:03 +0530", Successes:"0", TestCase:"open.script", Warnings:"0")
+2021-11-26 11:28:41.320 +0530	ABORTED		Execution Time 0:00:37 open.script

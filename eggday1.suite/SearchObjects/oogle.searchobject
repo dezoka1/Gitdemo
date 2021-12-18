@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		780,
+		288,
+		269,
+		96
+	],
+	"lastmodifieddate": 1637687966.625,
+	"createddate": 1637687966.625,
+	"name": "oogle",
+	"lastfounddate": 1637688042.312,
+	"ocrcapturestring": "oogle",
+	"lastfoundlocation": [
+		779,
+		289,
+		269,
+		96
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[134,48]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "oogle.png",
+				"connectionname": "M18ve_nov-20",
+				"type": 1,
+				"connectionserverid": "10.171.121.171",
+				"capturerect": [
+					780,
+					288,
+					269,
+					96
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "oogle"
+			}
+	]
+}

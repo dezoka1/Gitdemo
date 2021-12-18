@@ -1,0 +1,16 @@
+1	0.00900006	start	
+2	4.534	mouseDown	{button:1, clickCount:1, hotSpot:[47.904192, 235.531915]}
+3	4.696	mouseUp	{button:1, clickCount:1, hotSpot:[47.904192, 235.531915]}
+4	119.262	mouseDown	{button:1, clickCount:1, hotSpot:[44.071856, 256.595745]}
+5	119.533	mouseUp	{button:1, clickCount:1, hotSpot:[44.071856, 256.595745]}
+6	119.536	mouseDown	{button:1, clickCount:2, hotSpot:[44.071856, 256.595745]}
+7	119.73	mouseUp	{button:1, clickCount:0, hotSpot:[44.071856, 256.595745]}
+8	137.789	keyDown	{modifiers:0, string:"w", theKey:"w"}
+9	137.982	keyUp	{modifiers:0, string:"w", theKey:"w"}
+10	138.085	keyDown	{modifiers:0, string:"w", theKey:"w"}
+11	138.289	keyUp	{modifiers:0, string:"w", theKey:"w"}
+12	141.466	mouseDown	{button:1, clickCount:1, hotSpot:[300.838323, 70.851064]}
+13	141.662	mouseUp	{button:1, clickCount:1, hotSpot:[300.838323, 70.851064]}
+14	144.38	keyDown	{modifiers:0, string:@"\r", theKey:@"\r"}
+15	144.675	keyUp	{modifiers:0, string:@"\r", theKey:@"\r"}
+16	156.045	end	

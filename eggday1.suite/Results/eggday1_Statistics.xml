@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="Egd1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>26</NumberOfRuns>
+  <NumberOfFails>14</NumberOfFails>
+  <FirstRun>2021-11-23 14:10:09 +0530</FirstRun>
+  <LastRun>2021-11-23 22:50:07 +0530</LastRun>
+  <TotalTimeOnSuccess>448.934000</TotalTimeOnSuccess>
+ </script>
+ <script name="open">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2021-11-26 11:20:57 +0530</FirstRun>
+  <LastRun>2021-11-26 11:25:00 +0530</LastRun>
+  <TotalTimeOnSuccess>36.161000</TotalTimeOnSuccess>
+ </script>
+ <script name="egg2">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2021-11-24 09:50:21 +0530</FirstRun>
+  <LastRun>2021-11-24 09:50:21 +0530</LastRun>
+  <TotalTimeOnSuccess>0.448000</TotalTimeOnSuccess>
+ </script>
+</statistics>

@@ -1,0 +1,8 @@
+﻿2021-11-23 22:19:26.620 +0530	START		Running Egd1.script
+2021-11-23 22:19:35.810 +0530	doubleclick	chrom1	at (37, 240)	1	on_egd1	Egd1.script
+2021-11-23 22:19:38.997 +0530	waitfor	Icon_refresh	found at (102, 71)	4	on_egd1	Egd1.script
+2021-11-23 22:19:39.496 +0530	typetext		www.amazon.in[returnKey]	6	on_egd1	Egd1.script
+2021-11-23 22:20:18.305 +0530	click	image0002	at (311, 86)	9	on_egd1	Egd1.script
+2021-11-23 22:20:19.069 +0530	typetext		[windowsAltKey][F4]	11	on_egd1	Egd1.script
+2021-11-23 22:20:19.207 +0530	EndTestCase		(Duration:"52.586", Errors:"0", Exceptions:"0", StartTime:"2021-11-23 22:19:26 +0530", Successes:"1", TestCase:"Egd1.script", Warnings:"0")
+2021-11-23 22:20:19.327 +0530	SUCCESS		Execution Time 0:00:52 Egd1.script

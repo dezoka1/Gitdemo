@@ -1,0 +1,72 @@
+{
+	"entries": [
+		{
+				"message": "Running Egd1.script",
+				"identifier": "START",
+				"timestamp": "2021-11-23 21:32:48.723 +0530"
+			},
+		{
+				"handlerName": "on_egd1",
+				"timestamp": "2021-11-23 21:32:49.126 +0530",
+				"scriptName": "Egd1.script",
+				"message": "at (214, 74)",
+				"image": "image0004",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_egd1",
+				"timestamp": "2021-11-23 21:32:49.973 +0530",
+				"scriptName": "Egd1.script",
+				"message": "at (214, 74)",
+				"image": "image00012",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_egd1",
+				"timestamp": "2021-11-23 21:32:49.995 +0530",
+				"scriptName": "Egd1.script",
+				"message": "found at (102, 71)",
+				"image": "Icon_refresh",
+				"handlerLine": 4,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_egd1",
+				"timestamp": "2021-11-23 21:32:51.402 +0530",
+				"message": "www.amazon.in[returnKey]",
+				"scriptName": "Egd1.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_egd1",
+				"timestamp": "2021-11-23 21:32:56.488 +0530",
+				"message": "[windowsAltKey][F4]",
+				"scriptName": "Egd1.script",
+				"handlerLine": 8,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_egd1",
+				"timestamp": "2021-11-23 21:33:15.536 +0530",
+				"scriptName": "Egd1.script",
+				"message": "No Image Found On Screen: \"image0002\"",
+				"image": "image0002",
+				"handlerLine": 11,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"26.968\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2021-11-23 21:32:48 +0530\", Successes:\"0\", TestCase:\"Egd1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-11-23 21:33:15.695 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:26 Egd1.script",
+				"identifier": "ABORTED",
+				"timestamp": "2021-11-23 21:33:15.713 +0530"
+			}
+	],
+	"createdTimestamp": "2021-11-23 21:32:48.727 +0530"
+}

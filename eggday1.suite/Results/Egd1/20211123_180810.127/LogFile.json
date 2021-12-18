@@ -1,0 +1,30 @@
+{
+	"entries": [
+		{
+				"message": "Running Egd1.script",
+				"identifier": "START",
+				"timestamp": "2021-11-23 18:08:10.131 +0530"
+			},
+		{
+				"handlerName": "on_egd1",
+				"timestamp": "2021-11-23 18:08:33.529 +0530",
+				"scriptName": "Egd1.script",
+				"message": "No Image Found On Screen: \"chrom1\"",
+				"image": "chrom1",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"23.486\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2021-11-23 18:08:10 +0530\", Successes:\"0\", TestCase:\"Egd1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-11-23 18:08:33.620 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: doubleclick Error - No Image Found On Screen: \"chrom1\" -- Execution Time 0:00:23 Egd1.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-11-23 18:08:33.816 +0530"
+			}
+	],
+	"createdTimestamp": "2021-11-23 18:08:10.133 +0530"
+}

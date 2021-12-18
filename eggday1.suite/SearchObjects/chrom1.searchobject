@@ -1,0 +1,101 @@
+{
+	"originalcapturelocation": [
+		5,
+		214,
+		63,
+		85
+	],
+	"lastmodifieddate": 1637680788.493,
+	"createddate": 1637656195.9819999,
+	"name": "chrom1",
+	"lastfounddate": 1637688022.323,
+	"ocrcapturestring": "n Google Chrome",
+	"lastfoundlocation": [
+		262,
+		1054,
+		14,
+		12
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[31,42]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "chrom1.png",
+				"connectionname": "M18ve_nov-20",
+				"type": 1,
+				"connectionserverid": "10.171.121.171",
+				"capturerect": [
+					5,
+					214,
+					63,
+					85
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "o"
+			},
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[21,14,47,36]",
+					"Rotate": 0,
+					"Scale": " 0.55",
+					"HotSpot": "[5,6]",
+					"Tolerance": "_67",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "chrom1.png",
+				"connectionname": "M18ve_nov-20",
+				"type": 1,
+				"capturerect": [
+					5,
+					214,
+					14,
+					12
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "10.171.121.171"
+			},
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[21,14,47,36]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[11,12]",
+					"Tolerance": "_69",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "chrom1.png",
+				"connectionname": "M18ve_nov-20",
+				"type": 1,
+				"connectionserverid": "10.171.121.171",
+				"capturerect": [
+					5,
+					214,
+					26,
+					22
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "o"
+			}
+	]
+}

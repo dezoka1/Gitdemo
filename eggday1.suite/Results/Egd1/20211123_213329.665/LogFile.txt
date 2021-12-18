@@ -1,0 +1,9 @@
+﻿2021-11-23 21:33:29.671 +0530	START		Running Egd1.script
+2021-11-23 21:33:29.956 +0530	doubleclick	chrom1	at (37, 240)	1	on_egd1	Egd1.script
+2021-11-23 21:33:33.436 +0530	click	image00012	at (214, 74)	2	on_egd1	Egd1.script
+2021-11-23 21:33:33.475 +0530	waitfor	Icon_refresh	found at (102, 71)	4	on_egd1	Egd1.script
+2021-11-23 21:33:34.688 +0530	typetext		www.amazon.in[returnKey]	6	on_egd1	Egd1.script
+2021-11-23 21:33:39.755 +0530	typetext		[windowsAltKey][F4]	8	on_egd1	Egd1.script
+2021-11-23 21:34:05.502 +0530	Exception	image0002	No Image Found On Screen: "image0002"	11	on_egd1	Egd1.script
+2021-11-23 21:34:05.695 +0530	EndTestCase		(Duration:"36.018", Errors:"1", Exceptions:"1", StartTime:"2021-11-23 21:33:29 +0530", Successes:"0", TestCase:"Egd1.script", Warnings:"0")
+2021-11-23 21:34:05.917 +0530	FAILURE	Screen_Error.png	Image Not Found: click Error - No Image Found On Screen: "image0002" -- Execution Time 0:00:36 Egd1.script

@@ -1,0 +1,54 @@
+{
+	"entries": [
+		{
+				"message": "Running Egd1.script",
+				"identifier": "START",
+				"timestamp": "2021-11-23 20:37:44.075 +0530"
+			},
+		{
+				"handlerName": "on_egd1",
+				"timestamp": "2021-11-23 20:37:44.349 +0530",
+				"scriptName": "Egd1.script",
+				"message": "at (37, 240)",
+				"image": "chrom1",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_egd1",
+				"timestamp": "2021-11-23 20:37:49.519 +0530",
+				"scriptName": "Egd1.script",
+				"message": "found at (102, 71)",
+				"image": "Icon_refresh",
+				"handlerLine": 3,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_egd1",
+				"timestamp": "2021-11-23 20:37:49.985 +0530",
+				"message": "www.amazon.in[returnKey]",
+				"scriptName": "Egd1.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_egd1",
+				"timestamp": "2021-11-23 20:37:55.059 +0530",
+				"message": "[windowsAltKey][F4]",
+				"scriptName": "Egd1.script",
+				"handlerLine": 7,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"42.818\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-11-23 20:37:44 +0530\", Successes:\"0\", TestCase:\"Egd1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-11-23 20:38:26.893 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:42 Egd1.script",
+				"identifier": "ABORTED",
+				"timestamp": "2021-11-23 20:38:26.950 +0530"
+			}
+	],
+	"createdTimestamp": "2021-11-23 20:37:44.075 +0530"
+}
